@@ -11,7 +11,11 @@ config_version=5
 [application]
 
 config/name="Echoes of Sacrifice"
+<<<<<<< Updated upstream
 run/main_scene="uid://b7r5ft3lshqp5"
+=======
+run/main_scene="uid://bkd1iscxhbfc1"
+>>>>>>> Stashed changes
 config/features=PackedStringArray("4.5", "Mobile")
 config/icon="res://icon.svg"
 
