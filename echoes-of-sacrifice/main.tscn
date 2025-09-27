@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-[gd_scene load_steps=0 format=3 uid="uid://b7r5ft3lshqp5"]
-=======
 [gd_scene load_steps=7 format=4 uid="uid://b7r5ft3lshqp5"]
 
 [ext_resource type="Script" uid="uid://c3fw7aw5ymjti" path="res://character_body_2d_2.gd" id="1_h2yge"]
@@ -402,7 +399,6 @@ texture = ExtResource("3_lquwl")
 [sub_resource type="TileSet" id="TileSet_5vw27"]
 physics_layer_0/collision_layer = 1
 sources/3 = SubResource("TileSetAtlasSource_272bh")
->>>>>>> Stashed changes
 
 [node name="Root" type="Node2D"]
 
